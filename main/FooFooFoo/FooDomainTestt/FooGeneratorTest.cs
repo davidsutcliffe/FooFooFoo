@@ -12,6 +12,7 @@ namespace FooDomainTest
     [TestFixture]
     public class FooGeneratorTest
     {
+        //a comment
         [Test]
         public void GeneratingFooForKnownFooIdGetsCorrectFoo()
         {
