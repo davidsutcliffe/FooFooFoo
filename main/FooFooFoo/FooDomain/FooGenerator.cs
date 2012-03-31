@@ -1,5 +1,6 @@
 ﻿namespace FooDomain
 {
+    // comment
     public class FooGenerator
     {
         public string GetFoo(int fooId)
